@@ -1,9 +1,7 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Levin6053&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Levin6053&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levin6053&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Strada Roleplay
+## Role: Owner
+Website: https://strada.vip
 
----
-[![](https://visitcount.itsvg.in/api?id=Levin6053&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# X-Studios
+## Role: Admin & Developer
+Website: https://x-studios.xyz
